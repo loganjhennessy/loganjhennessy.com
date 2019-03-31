@@ -1,2 +1,3 @@
 # loganjhennessy.com
+
 Personal website.
